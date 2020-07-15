@@ -20,11 +20,11 @@ Hi, I'm Yudi Purwanto, a Software Engineer 🚀 from Indonesia.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Wahana Mandiri Sydratama](whnmandiri.co.id);
-- 🌱 I’m currently learning Flutter and Deno
+- 👨🏽‍💻 I’m currently working on [Wahana Mandiri Sydratama](https://whnmandiri.co.id);
+- 🌱 I’m currently learning Flutter and Deno;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: purwantoyudi42@gmail.com;
-- ☕ Buy me a Coffee [PayPal](https://paypal.me/YudiPurwanto?locale.x=id_ID)
+- ☕ Buy me a Coffee [PayPal](https://paypal.me/YudiPurwanto?locale.x=id_ID);
 
 **Languages and Tools:**  
 
